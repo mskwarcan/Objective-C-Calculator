@@ -1,0 +1,6 @@
+/Developer/Calculator/Classes/CalculatorBrain.m: In function '-[CalculatorBrain expression]':
+/Developer/Calculator/Classes/CalculatorBrain.m:29: error: expected ':' before ']' token
+/Developer/Calculator/Classes/CalculatorBrain.m:29: confused by earlier errors, bailing out
+{standard input}:53:non-relocatable subtraction expression, "L_OBJC_IVAR_$_CalculatorBrain.operand$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:53:symbol: "L_OBJC_IVAR_$_CalculatorBrain.operand$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_CalculatorBrain.operand$non_lazy_ptr

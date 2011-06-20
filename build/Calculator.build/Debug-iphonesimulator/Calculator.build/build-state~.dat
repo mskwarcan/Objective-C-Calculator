@@ -1,0 +1,256 @@
+TCalculator
+v7
+r0
+t329430504.036891
+cCheck dependencies
+cProcessInfoPlistFile /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist Calculator-Info.plist
+cCompileXIB /Developer/Calculator/MainWindow.xib
+cCompileXIB /Developer/Calculator/CalculatorViewController.xib
+cProcessPCH /var/folders/NL/NLcQKfEmGGqIO2A7N2ABbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-eosxqbgjbfkbyzalyrkzywfjqwze/Calculator_Prefix.pch.gch Calculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o /Developer/Calculator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o /Developer/Calculator/Classes/CalculatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o /Developer/Calculator/Classes/CalculatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator normal i386
+cGenerateDSYMFile /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+cTouch /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app
+
+N/Developer/Calculator/CalculatorViewController.xib
+c000000004DF27E4A0000000000001A51
+t1307737674
+s6737
+
+N/Developer/Calculator/Calculator_Prefix.pch
+c000000004DF27E4A00000000000000BD
+t1307737674
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Developer/Calculator/Classes/CalculatorAppDelegate.h
+c000000004DF27E4A00000000000001EE
+t1307737674
+s494
+i<UIKit/UIKit.h>
+
+N/Developer/Calculator/Classes/CalculatorAppDelegate.m
+c000000004DF27E4A0000000000000AB6
+t1307737674
+s2742
+i"CalculatorAppDelegate.h"
+i"CalculatorViewController.h"
+
+N/Developer/Calculator/Classes/CalculatorViewController.h
+c000000004DF27E4A00000000000000F4
+t1307737674
+s244
+i<UIKit/UIKit.h>
+
+N/Developer/Calculator/Classes/CalculatorViewController.m
+c000000004DF27E4A00000000000005CA
+t1307737674
+s1482
+i"CalculatorViewController.h"
+
+N/Developer/Calculator/MainWindow.xib
+c000000004DF27E4A0000000000004E4D
+t1307737674
+s20045
+
+N/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList
+c000000004DF27E650000000000000172
+t1307737701
+s370
+
+N/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o
+t1307737703
+s51452
+
+N/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o
+t1307737703
+s37976
+
+N/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o
+t1307737703
+s6276
+
+N/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app
+t1307737704
+s238
+
+N/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
+t1307737704
+s102
+
+N/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+t1307737703
+s17120
+
+N/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/CalculatorViewController.nib
+t1307737702
+s1269
+
+N/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist
+t1307737701
+s603
+
+N/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/MainWindow.nib
+t1307737702
+s1687
+
+N/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/PkgInfo
+t1307737701
+s8
+
+N/Developer/Calculator/main.m
+c000000004DF27E4A0000000000000169
+t1307737674
+s361
+i<UIKit/UIKit.h>
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/var/folders/NL/NLcQKfEmGGqIO2A7N2ABbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-eosxqbgjbfkbyzalyrkzywfjqwze/Calculator_Prefix.pch.gch
+t1307737703
+s15814064
+
+NCalculator-Info.plist
+c000000004DF27E4A000000000000038D
+t1307737674
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329430501#329430501#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o /Developer/Calculator/Classes/CalculatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329430503.428470
+e329430503.595878
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o
+x/Developer/Calculator/Classes/CalculatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Developer/Calculator/Classes/CalculatorAppDelegate.m329430503#329430503#0(0"0(0#0#53"/Developer/Calculator/Classes/CalculatorAppDelegate.m8607504928#1829"    cd /Developer/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Developer/Calculator/build/Debug-iphonesimulator -I/Developer/Calculator/build/Debug-iphonesimulator/include -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -include /var/folders/NL/NLcQKfEmGGqIO2A7N2ABbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-eosxqbgjbfkbyzalyrkzywfjqwze/Calculator_Prefix.pch -c /Developer/Calculator/Classes/CalculatorAppDelegate.m -o /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorAppDelegate.o0#
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o /Developer/Calculator/Classes/CalculatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329430503.572108
+e329430503.640237
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o
+x/Developer/Calculator/Classes/CalculatorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Developer/Calculator/Classes/CalculatorViewController.m329430503#329430503#0(0"0(0#0#56"/Developer/Calculator/Classes/CalculatorViewController.m8600736672#1835"    cd /Developer/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Developer/Calculator/build/Debug-iphonesimulator -I/Developer/Calculator/build/Debug-iphonesimulator/include -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -include /var/folders/NL/NLcQKfEmGGqIO2A7N2ABbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-eosxqbgjbfkbyzalyrkzywfjqwze/Calculator_Prefix.pch -c /Developer/Calculator/Classes/CalculatorViewController.m -o /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/CalculatorViewController.o0#
+
+CCompileC build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o /Developer/Calculator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329430503.427434
+e329430503.572011
+r1
+xCompileC
+xbuild/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o
+x/Developer/Calculator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Compile /Developer/Calculator/main.m329430503#329430503#0(0"0(0#0#28"/Developer/Calculator/main.m8608856288#1787"    cd /Developer/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Developer/Calculator/build/Debug-iphonesimulator -I/Developer/Calculator/build/Debug-iphonesimulator/include -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -include /var/folders/NL/NLcQKfEmGGqIO2A7N2ABbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-eosxqbgjbfkbyzalyrkzywfjqwze/Calculator_Prefix.pch -c /Developer/Calculator/main.m -o /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Developer/Calculator/CalculatorViewController.xib
+s329430501.602264
+e329430502.245156
+r1
+xCompileXIB
+x/Developer/Calculator/CalculatorViewController.xib
+lSLF07#2@39"CompileXIB CalculatorViewController.xib329430501#329430502#0(0"0(0#0#50"/Developer/Calculator/CalculatorViewController.xib8594667520#550"    cd /Developer/Calculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/CalculatorViewController.nib /Developer/Calculator/CalculatorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Developer/Calculator/MainWindow.xib
+s329430501.600442
+e329430502.253761
+r1
+xCompileXIB
+x/Developer/Calculator/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib329430501#329430502#0(0"0(0#0#36"/Developer/Calculator/MainWindow.xib8607178816#522"    cd /Developer/Calculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/MainWindow.nib /Developer/Calculator/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+s329430503.964015
+e329430504.006993
+r1
+xGenerateDSYMFile
+x/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM
+x/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Calculator.app.dSYM build/Debug-iphonesimulator/Calculator.app/Calculator329430503#329430504#0(0"0(0#0#75"/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator8597880832#341"    cd /Developer/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator -o /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app.dSYM0#
+
+CLd /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator normal i386
+s329430503.640342
+e329430503.963921
+r1
+xLd
+x/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator
+xnormal
+xi386
+lSLF07#2@80"Link /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator329430503#329430503#0(0"0(0#0#0"8599536704#830"    cd /Developer/Calculator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Developer/Calculator/build/Debug-iphonesimulator -F/Developer/Calculator/build/Debug-iphonesimulator -filelist /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Objects-normal/i386/Calculator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Calculator0#
+
+CProcessInfoPlistFile /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist Calculator-Info.plist
+s329430501.558120
+e329430501.600334
+r1
+xProcessInfoPlistFile
+x/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist
+xCalculator-Info.plist
+lSLF07#2@29"Process Calculator-Info.plist329430501#329430501#0(0"0(0#0#43"/Developer/Calculator/Calculator-Info.plist32932997483987040#437"    cd /Developer/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Calculator-Info.plist -genpkginfo /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app/Info.plist0#
+
+CProcessPCH /var/folders/NL/NLcQKfEmGGqIO2A7N2ABbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-eosxqbgjbfkbyzalyrkzywfjqwze/Calculator_Prefix.pch.gch Calculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s329430502.253991
+e329430503.427230
+r1
+xProcessPCH
+x/var/folders/NL/NLcQKfEmGGqIO2A7N2ABbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-eosxqbgjbfkbyzalyrkzywfjqwze/Calculator_Prefix.pch.gch
+xCalculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile Calculator_Prefix.pch329430502#329430503#0(0"0(0#0#43"/Developer/Calculator/Calculator_Prefix.pch8590381632#1693"    cd /Developer/Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-generated-files.hmap -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-own-target-headers.hmap -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-all-target-headers.hmap -iquote /Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/Calculator-project-headers.hmap -F/Developer/Calculator/build/Debug-iphonesimulator -I/Developer/Calculator/build/Debug-iphonesimulator/include -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources/i386 -I/Developer/Calculator/build/Calculator.build/Debug-iphonesimulator/Calculator.build/DerivedSources -c /Developer/Calculator/Calculator_Prefix.pch -o /var/folders/NL/NLcQKfEmGGqIO2A7N2ABbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Calculator_Prefix-eosxqbgjbfkbyzalyrkzywfjqwze/Calculator_Prefix.pch.gch0#
+
+CTouch /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app
+s329430504.007081
+e329430504.036836
+r1
+xTouch
+x/Developer/Calculator/build/Debug-iphonesimulator/Calculator.app
+lSLF07#2@70"Touch /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app329430504#329430504#0(0"0(0#0#0"8594721440#247"    cd /Developer/Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Developer/Calculator/build/Debug-iphonesimulator/Calculator.app0#
+
